@@ -2,13 +2,13 @@
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Dev07-Harsh.Dev07-Harsh)](https://github.com/Dev07-Harsh)  
 
-Welcome to my GitHub profile! I'm Dev07-Harsh, a passionate software developer on an exciting journey of learning and innovation. Dive into my world of code, creativity, and community collaboration.
+Welcome to my GitHub profile! I'm Harsh Singh, a passionate software developer on an exciting journey of learning and innovation. Dive into my world of code, creativity, and community collaboration.
 
 ---
 
 ## 👨‍💻 About Me
 
-- *Name:* Dev07-Harsh  
+- *Name:* Harsh Singh
 - *Passion:* Building innovative solutions and contributing to the open-source community  
 - *Focus:* Mastering languages like Python and JavaScript while exploring modern development frameworks  
 - *Philosophy:* Learning by doing, sharing knowledge, and growing through collaboration
